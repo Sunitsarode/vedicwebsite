@@ -1,0 +1,2 @@
+# vedicwebsite
+A static website
